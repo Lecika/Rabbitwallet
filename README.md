@@ -17,5 +17,5 @@ You can also reference a specific branch if you want:
 $('body').repo({ user: 'jquery', name: 'jquery', branch: 'strip_iife' })
 ```
 
-pasika walletroom
+pasika walletroom new
 # github
