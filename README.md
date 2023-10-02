@@ -1,4 +1,4 @@
-Repo.js
+Repo.jsd
 =======
 
 Repo.js is a jQuery plugin that lets you easily embed a Github repo onto your site. This is great for other plugin or library authors that want to showcase the contents of a repo on their project pages. 
