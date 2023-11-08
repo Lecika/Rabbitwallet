@@ -18,4 +18,4 @@ $('body').repo({ user: 'jquery', name: 'jquery', branch: 'strip_iife' })
 ```
 
 pasika walletroom new
-# githu
+# githubbbb
